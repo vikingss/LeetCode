@@ -19,7 +19,7 @@ public class firstLevel27 {
         public TreeNode left;
         public TreeNode right;
 
-        TreeNode(int x) {
+        public TreeNode(int x) {
             val = x;
         }
     }
