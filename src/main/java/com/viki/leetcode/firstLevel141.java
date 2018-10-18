@@ -11,11 +11,11 @@ import java.util.Queue;
  */
 public class firstLevel141 {
 
-    public class TreeLinkNode {
+    public static class TreeLinkNode {
 
-        TreeLinkNode left;
-        TreeLinkNode right;
-        TreeLinkNode next;
+        public TreeLinkNode left;
+        public TreeLinkNode right;
+        public TreeLinkNode next;
     }
 
     public void connect(TreeLinkNode root) {
