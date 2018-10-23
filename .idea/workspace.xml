@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2af4e8c-bb36-4f5f-af24-8f892a4d43f2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/round2/No165.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/round2/No187.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/round2/No206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/round2/No647.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/viki/leetcode/firstLevel71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/viki/leetcode/firstLevel71.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/round2/No187.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/round2/No187.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/viki/leetcode/firstLevel71.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/viki/leetcode/firstLevel71.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/round2/No125.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/round2/No125.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,27 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="No145.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/round2/No145.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="No147.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/round2/No147.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="No148.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/round2/No148.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +85,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No187.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="No187.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/round2/No187.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+            <state relative-caret-position="300">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No647.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/round2/No647.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="firstLevel71.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/viki/leetcode/firstLevel71.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -128,8 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/round2/No98.java" />
-        <option value="$PROJECT_DIR$/src/main/java/round2/No101.java" />
         <option value="$PROJECT_DIR$/src/main/java/round2/No102.java" />
         <option value="$PROJECT_DIR$/src/main/java/round2/No103.java" />
         <option value="$PROJECT_DIR$/src/main/java/round2/No104.java" />
@@ -179,6 +176,8 @@
         <option value="$PROJECT_DIR$/src/main/java/round2/No165.java" />
         <option value="$PROJECT_DIR$/src/main/java/round2/No206.java" />
         <option value="$PROJECT_DIR$/src/main/java/round2/No187.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/viki/leetcode/firstLevel71.java" />
+        <option value="$PROJECT_DIR$/src/main/java/round2/No647.java" />
       </list>
     </option>
   </component>
@@ -313,7 +312,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No125">
+  <component name="RunManager" selected="Application.No647">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -352,8 +351,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="No47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="round2.No47" />
+    <configuration name="No647" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="round2.No647" />
       <module name="LeetCode1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -416,19 +415,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.No47" />
       <item itemvalue="Application.No35" />
       <item itemvalue="Application.No37" />
       <item itemvalue="Application.No89" />
       <item itemvalue="Application.No125" />
+      <item itemvalue="Application.No647" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No647" />
         <item itemvalue="Application.No125" />
         <item itemvalue="Application.No89" />
         <item itemvalue="Application.No37" />
         <item itemvalue="Application.No35" />
-        <item itemvalue="Application.No47" />
       </list>
     </recent_temporary>
   </component>
@@ -476,17 +475,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32889965" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32838285" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297568" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32889965" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32838285" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32838285" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
@@ -495,7 +496,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.528416" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.14356436" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Data View" order="3" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -503,7 +504,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
     </layout>
     <layout-to-restore>
@@ -583,8 +583,14 @@
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/round2/No647.java</url>
+          <line>3</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -592,24 +598,20 @@
         <watch expression="i&gt;&gt;1" language="JAVA" />
         <watch expression="s.charAt(i)" language="JAVA" />
         <watch expression="s.charAt(j)" language="JAVA" />
+        <watch expression="s.substring(j,i)" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>s.substring(j,i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/round2/No100.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/round2/No96.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/round2/No95.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -961,8 +963,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/round2/No187.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        <state relative-caret-position="300">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/viki/leetcode/firstLevel71.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/round2/No647.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
