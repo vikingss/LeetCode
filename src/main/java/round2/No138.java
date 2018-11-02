@@ -28,16 +28,15 @@ public class No138 {
         RandomListNode newp = newhead;
         while (oldp != null) {
             RandomListNode newnode = new RandomListNode(oldp.label);
-            map.put(oldp, newnode);
             newp.next = newnode;
-
+            map.put(oldp, newnode);
             oldp = oldp.next;
             newp = newp.next;
         }
         oldp = head;
         newp = newhead;
         while(oldp  != null){
-            newp.random = map.get(newp.random);
+            newp.random = map.get(oldp.random);
             oldp = oldp.next;
             newp = newp.next;
         }

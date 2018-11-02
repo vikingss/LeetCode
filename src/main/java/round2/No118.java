@@ -12,25 +12,17 @@ import java.util.List;
 public class No118 {
 
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> resList = new ArrayList<>();
-        build(resList, new ArrayList<>(), 1, numRows);
-        return resList;
-    }
-
-    private void build(List<List<Integer>> resList, ArrayList<Integer> list, int cur, int numRows) {
-        if (cur > numRows) {
-            return;
-        }
-        list.add(1);
-        if (!resList.isEmpty()) {
-            List<Integer> lastList = resList.get(resList.size() - 1);
-            for (int i = 1; i < lastList.size(); ++i) {
-                list.add(lastList.get(i) + lastList.get(i - 1));
+        List<List<Integer>> resList = new ArrayList<List<Integer>>();
+        ArrayList<Integer> row = new ArrayList<Integer>();
+        for(int i=0;i<numRows;i++) {
+            row.add(0, 1);
+            for(int j=1;j<row.size()-1;j++){
+                row.set(j, row.get(j)+row.get(j+1));
             }
-            list.add(1);
+            resList.add(new ArrayList<Integer>(row));
         }
-        resList.add(new ArrayList<>(list));
-        build(resList, new ArrayList<>(), ++cur, numRows);
+        return resList;
+
     }
 
 }
