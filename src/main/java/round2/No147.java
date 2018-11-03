@@ -15,7 +15,7 @@ public class No147 {
             return head;
         }
 
-        ListNode dummy = new ListNode(0); //new starter of the sorted list
+        ListNode dummy = new ListNode(0); //new     of the sorted list
         ListNode cur = head; //the node will be inserted
         ListNode pre = dummy; //insert node between pre and pre.next
         ListNode next = null; //the next node will be inserted
@@ -29,7 +29,7 @@ public class No147 {
             //insert between pre and pre.next
             cur.next = pre.next;
             pre.next = cur;
-            pre = dummy;
+            pre = dummy; //
             cur = next;
         }
 

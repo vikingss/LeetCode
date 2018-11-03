@@ -2,36 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2af4e8c-bb36-4f5f-af24-8f892a4d43f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No114.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No116.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No117.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No118.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No119.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No120.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No121.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No122.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No125.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No127.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No129.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No130.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No131.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No134.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No136.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No137.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No138.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No139.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No141.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No142.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No143.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/round2/No117$TreeLinkNode.class" afterPath="$PROJECT_DIR$/target/classes/round2/No117$TreeLinkNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/round2/No117.class" afterPath="$PROJECT_DIR$/target/classes/round2/No117.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/round2/No118.class" afterPath="$PROJECT_DIR$/target/classes/round2/No118.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/round2/No92.class" afterPath="$PROJECT_DIR$/target/classes/round2/No92.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/round3/No91.class" afterPath="$PROJECT_DIR$/target/classes/round3/No91.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No147.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No148.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/round3/No150.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/round2/No117.java" afterPath="$PROJECT_DIR$/src/main/java/round2/No117.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/round2/No118.java" afterPath="$PROJECT_DIR$/src/main/java/round2/No118.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/round2/No138.java" afterPath="$PROJECT_DIR$/src/main/java/round2/No138.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/round2/No147.java" afterPath="$PROJECT_DIR$/src/main/java/round2/No147.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,39 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="No137.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/round2/No137.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="29" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="No138.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/round3/No138.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="628">
-              <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-              <folding>
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="No139.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/round3/No139.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="24" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="No141.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/round3/No141.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,11 +38,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No143.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="No143.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/round3/No143.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="400">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No147.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/round3/No147.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="28" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No148.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/round2/No148.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-272">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No148.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/round3/No148.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="51" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No150.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/round3/No150.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="36" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No147.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/round2/No147.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -126,26 +120,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No139.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/round2/No139.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="No138.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/round2/No138.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1">
-              <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -166,10 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/round3/N90.java" />
-        <option value="$PROJECT_DIR$/src/main/java/round3/No90.java" />
-        <option value="$PROJECT_DIR$/src/main/java/round2/No91.java" />
-        <option value="$PROJECT_DIR$/src/main/java/round3/No91.java" />
         <option value="$PROJECT_DIR$/src/main/java/round2/No92.java" />
         <option value="$PROJECT_DIR$/src/main/java/round3/No92.java" />
         <option value="$PROJECT_DIR$/src/main/java/round3/No93.java" />
@@ -217,6 +187,10 @@
         <option value="$PROJECT_DIR$/src/main/java/round3/No140.java" />
         <option value="$PROJECT_DIR$/src/main/java/round3/No142.java" />
         <option value="$PROJECT_DIR$/src/main/java/round3/No143.java" />
+        <option value="$PROJECT_DIR$/src/main/java/round2/No147.java" />
+        <option value="$PROJECT_DIR$/src/main/java/round3/No147.java" />
+        <option value="$PROJECT_DIR$/src/main/java/round3/No148.java" />
+        <option value="$PROJECT_DIR$/src/main/java/round3/No150.java" />
       </list>
     </option>
   </component>
@@ -227,8 +201,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="807" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -326,7 +301,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="round2" type="462c0819:PsiDirectoryNode" />
+              <item name="round3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -602,7 +577,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27206773" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27206773" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24177396" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -793,48 +768,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/round3/No109.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/round2/No109.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/round2/No110.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/round3/No110.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/round2/No111.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/round3/No111.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1219,9 +1152,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/round3/No143.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="400">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/round3/No147.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="28" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/round2/No147.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/round2/No148.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/round3/No148.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="51" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/round3/No150.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
