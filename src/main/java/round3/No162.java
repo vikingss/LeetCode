@@ -1,9 +1,9 @@
-package round2;
+package round3;
 
 /**
  * @Author: xunruibo
  * @Description:
- * @Date: Created in 15:33 2018/10/23
+ * @Date: Created in 17:24 2018/11/5
  * @Modified By:
  */
 public class No162 {
@@ -18,13 +18,5 @@ public class No162 {
             }
         }
         return l;
-    }
-
-
-
-
-    public static void main(String[] args) {
-        int[] nums = {9,8,7,4,3,6,5};
-        System.out.println(findPeakElement(nums));
     }
 }
