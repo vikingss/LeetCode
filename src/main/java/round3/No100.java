@@ -1,6 +1,6 @@
 package round3;
 
-import com.viki.leetcode.firstLevel27.TreeNode;
+import round1.firstLevel27.TreeNode;
 
 /**
  * @Author: xunruibo

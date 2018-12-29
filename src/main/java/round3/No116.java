@@ -1,7 +1,7 @@
 package round3;
 
 
-import com.viki.leetcode.firstLevel141;
+import round1.firstLevel141;
 
 /**
  * @Author: xunruibo

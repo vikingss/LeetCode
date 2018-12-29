@@ -1,6 +1,6 @@
 package round2;
 
-import com.viki.leetcode.firstLevel21.ListNode;
+import round1.firstLevel21.ListNode;
 
 public class No206 {
     public ListNode reverseList(ListNode head) {

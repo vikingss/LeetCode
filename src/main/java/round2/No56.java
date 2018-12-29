@@ -1,6 +1,5 @@
 package round2;
 
-import com.viki.leetcode.firstLevel113.Interval;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;

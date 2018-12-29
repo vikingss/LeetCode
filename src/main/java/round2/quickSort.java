@@ -8,16 +8,16 @@ package round2;
  */
 public class quickSort {
     public static void quickSort(int[] nums,int start,int end){
-        if(start >= end) return;
+        if(start > end) return;
         int l = start;
         int h = end;
         int key = nums[start];
-        while(l < h){
-            while(l < h && nums[h] > key) {
+        while(l <= h){
+            while(l <= h && nums[h] >= key) {
                 h--;
             }
             nums[l] = nums[h];
-            while(l < h && nums[l] < key) {
+            while(l <= h && nums[l] <= key) {
                 l++;
             }
             nums[h] = nums[l];

@@ -1,6 +1,6 @@
 package round3;
 
-import com.viki.leetcode.firstLevel27.TreeNode;
+import round1.firstLevel27.TreeNode;
 
 /**
  * @Author: xunruibo
@@ -18,12 +18,9 @@ public class No543 {
 
     private int maxDepth(TreeNode root) {
         if (root == null) return 0;
-
         int left = maxDepth(root.left);
         int right = maxDepth(root.right);
-
         max = Math.max(max, left + right);
-
         return Math.max(left, right) + 1;
     }
 

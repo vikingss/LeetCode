@@ -1,6 +1,6 @@
 package round2;
 
-import com.viki.leetcode.firstLevel27.TreeNode;
+import round1.firstLevel27.TreeNode;
 
 public class No572 {
     public boolean isSubtree(TreeNode s, TreeNode t) {

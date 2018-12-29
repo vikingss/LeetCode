@@ -1,6 +1,6 @@
 package round2;
 
-import com.viki.leetcode.firstLevel141.TreeLinkNode;
+import round1.firstLevel141.TreeLinkNode;
 
 /**
  * @Author: xunruibo
